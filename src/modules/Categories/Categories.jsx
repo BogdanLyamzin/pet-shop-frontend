@@ -8,6 +8,8 @@ const Categories = ({popular = false})=> {
     // const categories = useSelector(store => store.categories.items);
     // const items = popular ? categories.slice(0, 4) : categories;
 
+    return <div></div>
+
 }
 
 export default Categories;
